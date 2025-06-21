@@ -1,6 +1,12 @@
 # Thrive
 THRIVE will provide a robust Machine Learning Classifier for Detection of Physical Activity Types and Postures During Free-Living which helps in developing applications like fitness tracking, health monitoring, AI-driven rehabilitation, and wearable sensor technology.
 
+## Best Model pkl file
+https://drive.google.com/file/d/162tUtZsOl_Ny8gBv0_lpjhQTwz5cK0Au/view?usp=sharing
+
+## Dataset
+https://docs.google.com/spreadsheets/d/1XxuSVDEuwi2eI28_D8-XU7zLOPC8MjRSsaimalcygPk/edit?usp=sharing
+
 ## Getting Started
 To run Thrive locally on your machine, follow these steps:
 
